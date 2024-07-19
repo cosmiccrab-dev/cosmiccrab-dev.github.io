@@ -1460,6 +1460,18 @@ a {
 .cid-uiVNe5nkrN .mbr-section-btn {
   color: #a0e1e1;
 }
+.cid-uiW56mj5W8 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #0c2e44;
+}
+.cid-uiW56mj5W8 .content-text {
+  max-width: 800px;
+}
+.cid-uiW56mj5W8 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-uiVNe5naXF {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1552,6 +1564,9 @@ a {
 }
 .cid-uiVNe5pmut .content-head {
   max-width: 800px;
+}
+.cid-uiVNe5pmut .mbr-section-subtitle {
+  color: #a0e1e1;
 }
 .cid-uiVNe5qh3u {
   padding-top: 6rem;
