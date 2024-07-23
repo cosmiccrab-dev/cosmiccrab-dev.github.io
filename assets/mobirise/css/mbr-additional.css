@@ -781,81 +781,6 @@ a {
     padding-right: 16px;
   }
 }
-.cid-uj67Kpyv0n {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/strailer-flat-website-2-1600x900.png");
-}
-.cid-uj67Kpyv0n .content-text {
-  max-width: 800px;
-}
-.cid-uj67Kpyv0n .mbr-section-title {
-  color: #9fe870;
-}
-.cid-uj67Kpyv0n .mbr-text,
-.cid-uj67Kpyv0n .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-uiVNe5nkrN {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-}
-.cid-uiVNe5nkrN .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uiVNe5nkrN .item-wrapper {
-  margin-bottom: 4rem;
-  margin-top: 0rem;
-}
-@media (max-width: 767px) {
-  .cid-uiVNe5nkrN .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uiVNe5nkrN .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/tdptrailer-flat-206x116.png");
-}
-.cid-uiVNe5nkrN .mbr-iconfont {
-  display: inline-flex;
-  font-size: 2rem;
-  color: #d70081;
-  width: 80px;
-  justify-content: center;
-  align-items: center;
-  background: #ffd7ef;
-  height: 80px;
-  border-radius: 50%;
-}
-.cid-uiVNe5nkrN .card-title,
-.cid-uiVNe5nkrN .iconfont-wrapper,
-.cid-uiVNe5nkrN .card-text {
-  color: #000000;
-  text-align: center;
-}
-.cid-uiVNe5nkrN .content-head {
-  max-width: 800px;
-}
-.cid-uiVNe5nkrN .mbr-section-title {
-  color: #ffffff;
-}
-.cid-uiVNe5nkrN .mbr-section-btn {
-  text-align: center;
-}
-.cid-uiVNe5nkrN .card-title,
-.cid-uiVNe5nkrN .iconfont-wrapper {
-  color: #9fe870;
-}
-.cid-uiVNe5nkrN .card-text,
-.cid-uiVNe5nkrN .mbr-section-btn {
-  color: #a0e1e1;
-}
 .cid-uiVNe5mwQY {
   z-index: 1000;
   width: 100%;
@@ -1418,6 +1343,81 @@ a {
   .cid-uiVNe5mwQY .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-uj67Kpyv0n {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/strailer-flat-website-2-1600x900.png");
+}
+.cid-uj67Kpyv0n .content-text {
+  max-width: 800px;
+}
+.cid-uj67Kpyv0n .mbr-section-title {
+  color: #9fe870;
+}
+.cid-uj67Kpyv0n .mbr-text,
+.cid-uj67Kpyv0n .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uiVNe5nkrN {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.cid-uiVNe5nkrN .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uiVNe5nkrN .item-wrapper {
+  margin-bottom: 4rem;
+  margin-top: 0rem;
+}
+@media (max-width: 767px) {
+  .cid-uiVNe5nkrN .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uiVNe5nkrN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/tdptrailer-flat-206x116.png");
+}
+.cid-uiVNe5nkrN .mbr-iconfont {
+  display: inline-flex;
+  font-size: 2rem;
+  color: #d70081;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+  background: #ffd7ef;
+  height: 80px;
+  border-radius: 50%;
+}
+.cid-uiVNe5nkrN .card-title,
+.cid-uiVNe5nkrN .iconfont-wrapper,
+.cid-uiVNe5nkrN .card-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-uiVNe5nkrN .content-head {
+  max-width: 800px;
+}
+.cid-uiVNe5nkrN .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uiVNe5nkrN .mbr-section-btn {
+  text-align: center;
+}
+.cid-uiVNe5nkrN .card-title,
+.cid-uiVNe5nkrN .iconfont-wrapper {
+  color: #9fe870;
+}
+.cid-uiVNe5nkrN .card-text,
+.cid-uiVNe5nkrN .mbr-section-btn {
+  color: #a0e1e1;
 }
 .cid-uiVNe5naXF {
   padding-top: 0rem;
